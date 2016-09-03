@@ -1,0 +1,5 @@
+luafilepath=E:/code/svn_code/tcg/doc/config/lua/utf8
+luanames=*
+
+jsonfilepath=E:/code/svn_code/tcg/doc/config/json
+jsonnames=*

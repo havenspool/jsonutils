@@ -1,0 +1,8 @@
+packname=com.linlongyx.dragonball.config.bean
+
+javabeanpath=E:/hg_code/qlz/server/execl2json/src/main/java
+as3beanpath=
+beannames=*
+
+jsonfilepath=E:/svn_code/Dragonball/Product/1.0.0.0/data/template
+jsonnames=*
