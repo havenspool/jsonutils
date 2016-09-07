@@ -30,4 +30,6 @@ public class Csv2Json {
             // and voila, column values in an array. Works with Lists as well
         }
     }
+
+
 }
